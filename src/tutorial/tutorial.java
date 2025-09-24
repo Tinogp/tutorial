@@ -6,6 +6,7 @@ public class tutorial {
 		System.out.println("segundo commit");
 		System.out.println("tercer commit");
 		System.out.println("sexto commit");
+		System.out.println("septimo commit");
 	}
 
 }
